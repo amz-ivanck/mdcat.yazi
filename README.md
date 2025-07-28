@@ -5,7 +5,7 @@ Preview markdown files in [yazi](https://github.com/sxyazi/yazi) with [mdcat](ht
 Install this plugin with:
 
 ```bash
-ya pack --add GrzegorzKozub/mdcat
+ya pkg add amz-ivanck/mdcat
 ```
 
 Then set it up in your `yazi.toml` file by adding:
